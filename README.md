@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ans___human" target="blank"><img src="https://img.shields.io/twitter/follow/ans___human?logo=twitter&style=for-the-badge" alt="ans___human" /></a> </p>
 
-- 🔭 I’m currently working on [rest-country-api](https://github.com/BlueDragn/rest-country-api)
+- 🔭 I’m currently working on [Array Game](https://github.com/chingu-voyages/v44-tier1-team-02)
 
 - 🌱 I’m currently learning **React, node.js and python**
 
